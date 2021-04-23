@@ -19,7 +19,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078d7.svg?&style=flat&logo=visual-studio-code&logoColor=white)
 ![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm)
 
-**🎨 Design Tools** <br>
+**🎨 &nbsp; Design Tools** <br>
 
 ![Figma](https://img.shields.io/badge/Figma-white.svg?&style=flat&logo=figma)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?&style=flat&logo=blender&logoColor=white)
