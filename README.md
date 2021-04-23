@@ -3,6 +3,7 @@
 
 <!-- Badges -->
 ![GitHub User's stars](https://img.shields.io/github/stars/ecamlioglu?affiliations=OWNER&style=social)
+![GitHub Followers](https://img.shields.io/github/followers/ecamlioglu?style=social)
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=ecamlioglu.visitor-badge)](https://github.com/ecamlioglu)
 [![Linkedin](https://img.shields.io/badge/Erdem%20%C3%87aml%C4%B1o%C4%9Flu-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ecamlioglu)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@ecamlioglu)
