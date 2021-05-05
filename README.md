@@ -40,7 +40,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)
-
-![Erdem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ecamlioglu&count_private=true&hide=contribs,issues&show_icons=true)
-  
+<p align="center">
+<a href="https://github-readme-stats.vercel.app/api?username=ecamlioglu&count_private=true&hide=contribs,issues&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ecamlioglu&count_private=true&hide=contribs,issues&show_icons=true">
+</p>
+ 
 - 💬 &nbsp; Ask me about[...](mailto:secamlioglu@gmail.com)
