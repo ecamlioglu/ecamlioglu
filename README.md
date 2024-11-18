@@ -9,7 +9,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@ecamlioglu)
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ecamlioglu)
 
-<p align='left'> 👨‍💻 I'm currently Software Engineer at Echonos and university student. <br> I love games and I like making games more... <img src="https://img.shields.io/badge/XBOX-%23107C10.svg?&style=flat&logo=xbox&logoColor=white"/> </p>
+<p align='left'> 👨‍💻 I'm currently working as a Full-Stack Software Engineer. <br> I love games and I like making games more... <img src="https://img.shields.io/badge/XBOX-%23107C10.svg?&style=flat&logo=xbox&logoColor=white"/> </p>
 
 **🔨 Tools** <br>
 
